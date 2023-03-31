@@ -1,0 +1,77 @@
+Please find below the JD
+Location: Bangalore, India
+About Us
+Sapiens International Corporation (NASDAQ and TASE: SPNS) is a leading global provider of software solutions for the insurance industry, with a growing presence in the financial services sector. We offer integrated core software solutions and business services, and a full digital suite for the property and casualty/general insurance; life, pension, and annuities; and reinsurance markets. Sapiens also services the workers’ compensation and financial and compliance markets.
+Our portfolio includes policy administration, billing, and claims; underwriting, illustration and electronic application; reinsurance and decision management software. Sapiens’ digital platform features customer and agent portals, and a business intelligence platform. With a 30-year track record of delivering to more than 600 organizations, Sapiens’ team of over 4,000 employees operates through our fully-owned subsidiaries in North America, the United Kingdom, EMEA, and Asia Pacific. For more information: www.sapiens.com.
+PROFESSIONAL SUMMARY:
+• Around 6 years of extensive experience in infrastructure implementation, Automation, deployment, testing, documenting and maintenance of Client/Server, Web based applications in multi - tiered architecture, Internet/Intranet infrastructure and clustered environments.
+• Expertise in installing and configuring JBOSS EAP 5.x/6.x in various environments.
+• Knowledge in Installation, Configuration, and Maintenance of Oracle WebLogic Server 8.x./9.x/10.x/11g/12c on different UNIX platforms
+• Knowledge in installing, upgrading, configuring and Troubleshooting IBM WebSphere Application Server on AIX, Linux, Sun Solaris and Windows Platforms.
+• Good experience with JBoss application servers 4.0.x, 5.1.x, 6 .x, 7.x, Tomcat 5.x, 6.x, 7.x.
+• Deploying J2EE Application archives (JAR, WAR, EAR and RAR) and Web-Based/E-Commerce on Web Logic Application Server and JBOSS 5.x/6.x/7.x.
+• Deployed applications on Weblogic Servers and maintained Load balancing, High Availability and Fail over functionality.
+• Experience in Configuration and release management in DevOps support model using tools such as Terraform, GIT Hub, Puppet and Chef.
+• Create Chef Recipes, automation tools and builds, and do an overall process improvement to any manual processes.
+• Configured AWS-EC2 Cloud Instances using AMIs and launched instances with respect to specific applications.
+• Experience in administration, installing, configuring Web Servers like Apache 2.0/2.2
+• Good Knowledge on Configuration, Administration and Maintenance of CI tools Jenkins/Hudson, Buildforge
+• Wrote stop/start scripts for the Jboss application instances.
+• Expertise in writing shell scripts to handle complex automation/administration.
+• Expertise in setting up WAS - MQ connectivity by configuring JMS settings in WAS console and debugging issues related to WAS- MQ connectivity issues.
+• Experience in applying plug-ins for WebSphere Application Servers with IBM HTTP Server, Apache Tomcat server on AIX, Linux, Sun Solaris and Windows Platforms.
+• Experience with server Performance Tuning - Thread Dump Analysis, Core Dump Analysis when Server crashed unexpectedly.
+• Experienced on Oracle SOA suite such OSB, OIM,OAM, OES, ODSI, and WSDL.
+• Created JMS Server, Connection Factory, Foreign JMS server, Message Bridge, Topic/Queue, Distributed destinations as part of Weblogic JMS Configurations.
+• Analyzed Activity log files and diagnosing Application Server problems using Log Analyzer and also have experience in using different kinds of tools like Thread Analyzer, GC analyzer and Heap Analyzer.
+• Developed Chef Cookbooks and Recipes to manage systems configuration.
+• Expertise in configuring and managing services like AWS EC2 using AMI’s available. Configured multiple servers depending on application needs using continuous integration tools like Jenkins
+• Experience in in Designing and deploying AWS solutions using EC2 instances.
+• Experienced in configuring Single Sign On (SSO) using Site Minder, Identity Management and LDAP.
+• Involved in Configuration of MQ series objects like Queue Manager, Queue, Channels and Transmission Queue.
+• Involved in the maintenance activities of Redhat Linux Servers like security patching, disk space issues, upgrades.
+• Used application Load Balancers for creation of VIP and configured load balancing policies for the load balanced members.
+• Experienced in applying fix/refresh packs for WebSphere Application Server, IHS, App client, generate and propagate Webserver Plugins for IHS (6.x/7.0/8.x).
+• Experience in working with logs, traces and messages using tools such as Log Analyzer, Resource Analyzer and Admin Console.
+• Demonstrated ability to complete projects in deadline oriented environments.
+• Capable of quickly learning and delivering solutions as an individual and as part of a team.
+• Possess good team-management and leadership qualities.
+• Experience managing daily communication with an offshore development teams.
+TECHNICAL SKILLS:
+• Middleware: Oracle WebLogic Application Server 8.x./9.x/10.x/11g/12c, Apache-HTTP Server 2.0/2.2/5.x, Apache Tomcat 6.x/7.x/8.x, JBoss 4.x/5.x/6.x, 7.x, JBOSS EAP 5.x/6.x, Oracle RAC, Sun One Webserver 6.x (iPlanet 6.0), MS IIS server 4.x/5.1/6.0, IBM MQ-series, MySQL
+• Programming Languages: C++, SQL, PL-SQL, Java
+• Operating Systems: UNIX, Solaris, Red Hat LINUX, HP-UX, Unix-AIX,Windows 98/2000/NT/XP/VISTA.
+• J2EE Technologies: Servlets, JSP, JDBC, RMI, JMS, JTA, JNDI, JMX, EJB and Applets.
+• Web Technologies: JDK 1.4/5/6, HTML, XML, DHTML, MSXML, ASPX, Eclipse.
+• Performance Monitoring & Testing Tools: Wily Introscope, JMeter, JProbe, Mercury Load Runner, Grinder, Samurai, Oracle Identity Management, RSA Access Manager and Identity Manager, TDA, Sitescope
+• DevOps: Puppet, Chef, Subversion (SVN), GIT, Docker and Kubernetes.
+• Scripting Languages: WLST, UNIX Shell Scripting (Bourne, Korn, C and Bash), LINUX, Perl Scripting, PHP Scripting, ANT Scripts.
+• Packages: JDK 1.1/1.2/1.3/1.4/1.5/6, JSDK 2.0, J2EE
+• IDE s/Utilities: Eclipse, Oracle WebLogic Workshop, MS Visual Studio 2005, SSH, OpenSSL, Putty, and WLST.
+• Database: Pointbase, Oracle 8i/9i/10g/10.x, MS SQL Server, My SQL, MS Access and DB2.
+• Networking & Protocols: TCP/IP, Telnet, HTTP, HTTPS, FTP, SNMP, LDAP, DNS, DHCP, ARP, SSL, IDM 6.0 and 7.0
+• CI/CD Tools: Jenkins, Bamboo, Hudson, Chef, Puppet, AWS, Amazon EC2, Ansible, Docker and Kubernetes
+• Build Tools: ANT, MAVEN
+• Version Controlling Tools: Subversion, Perforce, GIT,CVS
+• Monitoring Tools: Datadog, WhatsUp Gold, Prometheus, Grafana, Dynatrace
+• Other Tools: Adobe Photoshop, MS Visio, Adobe Dreamweaver, Adobe Flash, MS Office.
+• Orchestration experience / knowledge.
+• Microservice Architecture
+• Experience to Rabbit MQ.
+Skills:
+Must:
+• Expertise in installing and configuring JBOSS
+• RabbitMQ.
+• AWS Cloud Primary- Mid Level/Beginner, Azure (Secondary).
+• Java Programming language, Installation, configuration/ Web application deployment.
+• Webservers - Apache
+• Operating Systems- RedHat LINUX
+• Scripting Language- Shell Scripting, Python(optional)
+• Ansible, Docker, Kubernetes
+• Any Monitoring tools Exp
+• DevOps: Puppet, Chef, Subversion (SVN), GIT
+• CI Tools: Jenkins, Bamboo, Hudson, Chef, Puppet
+• Build Tools: ANT, MAVEN
+Sr. DevOps additions:
+• Orchestration knowledge for Sr. DevOps
+• Microservice Architecture
