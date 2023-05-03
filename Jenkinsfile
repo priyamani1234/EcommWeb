@@ -12,6 +12,7 @@ pipeline
               steps
               {
                   git 'https://github.com/SriDevops-T/EcommWeb.git'
+                  echo "repo downloaded successfully"
               }
           }
           stage("mvn-package")
