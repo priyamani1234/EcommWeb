@@ -1,5 +1,6 @@
 >awk is a program which has its own programming languages
 for performing data processing and to generate reports
+>awk is very powerful tool for valdiations
 
 >The GNU  version of awk is gawk
 
