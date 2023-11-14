@@ -4,6 +4,7 @@ for performing data processing and to generate reports
 
 >The GNU  version of awk is gawk
 >done 
+done
 
 > awk processes data ,which can be recieved from a standard nput ,input file or as the o/p of any other command or process
 >awk processes data similar to sed such as lines by line.it processes every line for the specified pattern
